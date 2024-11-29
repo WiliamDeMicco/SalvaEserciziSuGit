@@ -5,7 +5,7 @@ public class ArrayCompiti {
 	        // Dichiariamo i due array ordinati
 	        int[] array1 = {1, 3, 5};
 	        int[] array2 = {2, 4, 6};
-
+	        System.out.println("cambio sul master invece");
 	        // Creiamo un array per contenere il risultato dell'unione
 	        int[] mergedArray = new int[array1.length + array2.length];
 
